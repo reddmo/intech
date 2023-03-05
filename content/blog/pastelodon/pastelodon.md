@@ -11,6 +11,8 @@ tags:
 ---
 <p><a href="/img/pastelodon.png"><img src="/img/pastelodon.png" alt="Screenshots of Pastelodon Light and Dark themes" title="Pastelodon Theme" width=100%</a></p>
 
+{% image "./pastelodon.png", "A possum parent and two possum kids hanging from the iconic red balloon" %}
+
 I didn't expect my second post to be a theme for a Mastodon app but after messing with the custom theme creator in [Mona](https://mastodon.social/@MonaApp), I was intrigued by the possibilities of the theme creator.
 
 At first, it started with some variations on other colors. Stark black background, vibrant pinks, purples, and blues. But the contrast was getting to me. It was almost too bright, even in Dark Mode. Then I came across an interesting post somewhere - and I apologize to the OP because I don't recall who it was - that redrew my attention to [catppuccin](https://github.com/catppuccin/catppuccin).
