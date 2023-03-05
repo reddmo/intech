@@ -11,7 +11,7 @@ tags:
 ---
 <p><a href="/img/pastelodon.png"><img src="/img/pastelodon.png" alt="Screenshots of Pastelodon Light and Dark themes" title="Pastelodon Theme" width=100%</a></p>
 
-{% image "./pastelodon.png", "Screenshots of Pastelodon Light and Dark themes" %}
+{% image "./pastelodon.png", "Screenshots of Pastelodon Light and Dark themes", "(min-width: 100%) 50vw, 100vw" %}
 
 I didn't expect my second post to be a theme for a Mastodon app but after messing with the custom theme creator in [Mona](https://mastodon.social/@MonaApp), I was intrigued by the possibilities of the theme creator.
 
