@@ -111,6 +111,10 @@ header:after {
 	clear: both;
 }
 
+img {
+  max-width: 100%;
+  }
+
 .links-nextprev {
 	list-style: none;
 	border-top: 1px dashed var(--color-gray-20);
