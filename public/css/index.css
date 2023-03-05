@@ -113,6 +113,7 @@ header:after {
 
 img {
   width: 100%;
+  height: auto;
   }
 
 .links-nextprev {
