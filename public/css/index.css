@@ -282,5 +282,6 @@ h2 + .header-anchor {
 
 /* Footer */
 footer {
-  font-size: .5em;
+  font-size: 1em;
+  text-align: center;
 }
