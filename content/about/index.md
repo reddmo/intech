@@ -10,5 +10,5 @@ I'm Jason. I live in PA with my wife, our cats Lily and Aoife, and a grumpy bear
 
 I have a collection of interests from tech, politics, gaming, gardening, coding, finance, economics, miniatures, and many in between and around these topics.
 
-You can find me over at <a rel="me" href="https://hachyderm.io/@jasonmoser">Mastodon</a>.
+
 
