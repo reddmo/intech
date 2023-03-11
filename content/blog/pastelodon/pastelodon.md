@@ -9,7 +9,7 @@ tags:
   - Mastodon
   - Pastelodon
 ---
-[{% image "./pastelodon.png", "Screenshots of Pastelodon Light and Dark themes" %}](/img/pastelodon.png)
+[{% image "./pastelodon.png", "Screenshots of Pastelodon Light and Dark themes", width=100%, height=auto %}](/img/pastelodon.png)
 
 I didn't expect my second post to be a theme for a Mastodon app but after messing with the custom theme creator in [Mona](https://mastodon.social/@MonaApp), I was intrigued by the possibilities of it.
 
