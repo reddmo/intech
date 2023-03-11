@@ -42,5 +42,8 @@
 		"luxon": "^3.2.1",
 		"markdown-it-anchor": "^8.6.6",
 		"netlify-cli": "^2.12.0"
+	},
+	"dependencies": {
+		"@11ty/eleventy-plugin-webc": "^0.9.3"
 	}
 }
