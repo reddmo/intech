@@ -111,10 +111,10 @@ header:after {
 	clear: both;
 }
 
-img {
+/* img {
   width: 100%;
   height: auto;
-  }
+  } */
 
 .links-nextprev {
 	list-style: none;
