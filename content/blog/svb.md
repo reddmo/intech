@@ -7,7 +7,7 @@ tags:
   - Silicon Valley Bank
   - Pension
 ---
-If you've follow TEST and/or finance news, you certainly haven't missed the stories of the collapse of Silicon Valley Bank. But, just in case:
+If you've follow tech and/or finance news, you certainly haven't missed the stories of the collapse of Silicon Valley Bank. But, just in case:
 
 [Silicon Valley Bank Collapse Sets Off Blame Game in Tech Industry](https://www.nytimes.com/2023/03/11/technology/silicon-valley-bank-crypto-investing.html)
 
