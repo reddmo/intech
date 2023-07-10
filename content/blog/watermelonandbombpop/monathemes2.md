@@ -18,4 +18,4 @@ These are based off of my [Pastelodon](https://itc.reddmo.com/blog/pastelodon/) 
 
 [Watermelon](mona-cat://d5f6) | [Bomb Pop](mona-cat://74c0)
 
-P.S. The framed screenshot above was created using Federico Viticci's [Apple Frames 3.1 shortcut/API](https://www.macstories.net/stories/apple-frames-3-1-extending-screenshot-automation-with-the-new-apple-frames-api/) for framing screenshots. I highly recommend it if you do that regularly.
+P.S. The framed screenshot above was created using Federico Viticci's [Apple Frames 3.1 shortcut/API](https://www.macstories.net/stories/apple-frames-3-1-extending-screenshot-automation-with-the-new-apple-frames-api/) for framing screenshots. I highly recommend it if you do that regularly. It's simple and convenient.
