@@ -14,7 +14,7 @@ tags:
 
 These are just a couple of new themes I made for [Mona](https://mastodon.social/@MonaApp).
 
-These are based off of my [Pastelodon](https://itc.reddmo.com/blog/pastelodon/) theme, with some minor color adjustments. In both, I pared down the number of colors used. In Bomb Pop, I used a darker background than int he Pastelodon Dark theme. I thought the variations were enough to warrant new names. You can judge that.
+These are based off of my [Pastelodon](https://itc.reddmo.com/blog/pastelodon/) theme, with some minor color adjustments. In both, I pared down the number of colors used. In Bomb Pop, I used a darker background than in the Pastelodon Dark theme. I thought the variations were enough to warrant new names. You can judge that.
 
 [Watermelon](mona-cat://d5f6) | [Bomb Pop](mona-cat://74c0)
 
