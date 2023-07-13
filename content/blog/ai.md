@@ -1,5 +1,5 @@
 ---
-title: Title: The Human Touch: Denouncing the Use of AI in Blog Writing
+title: The Human Touch, Denouncing the Use of AI in Blog Writing
 description: AI vs. Human Blogging
 date: 2023-07-12
 draft: false
